@@ -1,4 +1,7 @@
-# Simple Production GitHub Test
-Please feel free to suggest any change to this readme file that you like, and then submit a pull request.
+# Simple Dr. Pupper Test
 
-Seriously, any change you want...something quick and small is just fine. Add something, delete something, etc.
+You thought it was soda but it was pupper.
+
+![Dr. Pupper](http://dailypicdump.com/media/20161202/dr-pupper-picture.jpg)
+
+# *Bamboozled again!*
